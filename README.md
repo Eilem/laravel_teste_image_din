@@ -1,0 +1,1 @@
+# laravel_teste_image_din
